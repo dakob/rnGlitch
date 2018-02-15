@@ -11,7 +11,7 @@ class App extends Component {
         <View style={styles.header}>
           <Image accessibilityLabel="React logo" source={logo} resizeMode="contain" style={styles.logo} />
           <Text style={styles.title}>Welcome to React</Text>
-        </View>
+        </View>  
         <Text style={styles.intro}>
           To get started, edit <Text style={styles.code}>src/App/index.js</Text> and save to reload. 
           When I need you.... I just close my eyes... 
